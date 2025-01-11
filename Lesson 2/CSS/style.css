@@ -1,0 +1,29 @@
+body {
+  font-size: 22px;
+}
+
+h1,
+h2 {
+  color: blue;
+}
+
+p {
+  color: purple;
+}
+
+p {
+  color: red;
+}
+
+.highlight {
+  text-transform: uppercase;
+  background-color: gold;
+}
+
+.gray /* Add a css to a class */ {
+  color: gray;
+}
+
+#second /* Add a css to an id  */ {
+  font-style: italic;
+}
